@@ -4,27 +4,27 @@
 
 🧩 Interactive Components
 
-Mobile-friendly hamburger menu
+1. Mobile-friendly hamburger menu
 
-Testimonial slider with auto-rotation
+2.Testimonial slider with auto-rotation
 
-Smooth scrolling navigation
+3.Smooth scrolling navigation
 
 🎨 Modern UI Elements
 
-Eye-catching hero section with call-to-action
+1. Eye-catching hero section with call-to-action
 
-Services grid with hover animations
+2. Services grid with hover animations
 
-Contact form with built-in validation
+3. Contact form with built-in validation
 
 ⚡ Performance Optimized
 
-Semantic HTML5 structure
+1. Semantic HTML5 structure
 
-CSS variables for consistent theming
+2. CSS variables for consistent theming
 
-Minimal and efficient JavaScript (ES6) usage
+3. Minimal and efficient JavaScript (ES6) usage
 
 🛠️ Technologies Used
 
