@@ -1,6 +1,6 @@
 /* Global Styles */
 :root {
-    --primary-color: #4a6bff;
+    --primary-color: #ffae4a;
     --secondary-color: #ff6b6b;
     --dark-color: #333;
     --light-color: #f4f4f4;
@@ -61,7 +61,7 @@ ul {
 }
 
 .cta-button:hover {
-    background-color: #3a56d4;
+    background-color: #3ad1d4;
     transform: translateY(-3px);
     box-shadow: var(--shadow);
 }
@@ -468,7 +468,7 @@ footer {
 }
 
 .subscribe-form button:hover {
-    background-color: #3a56d4;
+    background-color: #3ad1d4;
 }
 
 .footer-bottom {
