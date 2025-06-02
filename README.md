@@ -36,7 +36,7 @@ Design: Custom UI with strong UX principles
 
 🚀 How to Use Clone the repository:
 
-bash Copy Edit git clone https://github.com/Vinai2003/VKDM.git Navigate to the project folder:
+bash Copy Edit git clone https://github.com/Vinai2003/vk-digitalmarketing.git Navigate to the project folder:
 
 bash Copy Edit cd VKDM Open index.html in your browser
 
